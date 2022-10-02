@@ -1,0 +1,205 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&flix HD" group-title="4K Tv Channels" tvg-logo="",1. &flix HD
+http://103.162.136.235:4500/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&pictures HD" group-title="4K Tv Channels" tvg-logo="",2. &pictures HD
+http://103.162.136.235:4500/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&prive HD" group-title="4K Tv Channels" tvg-logo=""",3. &prive HD
+http://103.162.136.235:4500/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&tv HD" group-title="4K Tv Channels" tvg-logo=""",4. &tv HD
+http://103.162.136.235:4500/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="13 Ulica HD" tvg-logo=""",5. 13 Ulica HD
+http://103.162.136.235:4500/play/a02t/index.m3u8
+ 
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="AXN SPIN" tvg-logo=""",6. AXN SPIN
+http://103.162.136.235:4500/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="BBC EARTH HD" tvg-logo=""",7. BBC EARTH HD 
+http://103.162.136.235:4500/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="BLACK" tvg-logo=""",8. BLACK
+http://103.162.136.235:4500/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Colors HD" tvg-logo=""",9. Colors HD
+http://103.162.136.235:4500/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Colors Infinity HD" tvg-logo=""",10. Colors Infinity HD
+http://103.162.136.235:4500/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Comedy Central" tvg-logo=""",11. Comedy Central
+http://103.162.136.235:4500/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Discovery HD" tvg-logo=""",12. Discovery HD
+http://103.162.136.235:4500/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Discovery Kids" tvg-logo=""",13. Discovery Kids
+http://103.162.136.235:4500/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Discovery Science" tvg-logo=""",14. Discovery Science
+http://103.162.136.235:4500/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Disney Channel" tvg-logo=""",15. Disney Channel
+http://103.162.136.235:4500/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Disney Jr." tvg-logo=""",16. Disney Jr.
+http://103.162.136.235:4500/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Fightbox HD" tvg-logo=""",17. Fightbox HD
+http://103.162.136.235:4500/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Fox Life HD" tvg-logo=""",18. Fox Life HD
+http://103.162.136.235:4500/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Golf Chanell" tvg-logo=""",19. Golf Chanell
+http://103.162.136.235:4500/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="HBO2" tvg-logo=""",20. HBO2
+http://103.162.136.235:4500/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="HBO 3" tvg-logo=""",21. HBO 3
+http://103.162.136.235:4500/play/a02p/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="Hungama" tvg-logo=""",22. Hungama
+http://103.162.136.235:4500/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="4K Tv Channels" tvg-name="MN+ HD" tvg-logo=""",23. MN+ HD
+http://103.162.136.235:4500/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo=""",24. MNX
+http://103.162.136.235:4500/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max HD" tvg-logo=""",25. Max HD
+http://103.162.136.235:4500/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo=""",26. Movies Now
+http://103.162.136.235:4500/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mtv" tvg-logo=""",27. Mtv
+http://103.162.136.235:4500/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo HD" tvg-logo=""",28. Nat Geo HD
+http://103.162.136.235:4500/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo=""",29. Nat Geo Wild HD 
+http://103.162.136.235:4500/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo=""",30. Nick 
+http://103.162.136.235:4500/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick HD+" tvg-logo=""",31. Nick HD+
+http://103.162.136.235:4500/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr." tvg-logo=""",32. Nick Jr. 
+http://103.162.136.235:4500/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pix HD" tvg-logo=""",33. Pix HD
+http://103.162.136.235:4500/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo=""",34. Pogo
+http://103.162.136.235:4500/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED SD" tvg-logo=""",35. RED SD
+http://103.162.136.235:4500/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Sports" tvg-logo=""",36. RT Sports
+http://103.162.136.235:4500/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romedy Now" tvg-logo=""",37. Romedy Now
+http://103.162.136.235:4500/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCI- FI" tvg-logo=""",38. SCI- FI
+http://103.162.136.235:4500/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET HD" tvg-logo=""",39. SET HD
+http://103.162.136.235:4500/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sab HD" tvg-logo=""",40. Sab HD
+http://103.162.136.235:4500/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SciFi HD" tvg-logo=""",41. SciFi HD
+http://103.162.136.235:4500/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Six HD" tvg-logo=""",42. Six HD
+http://103.162.136.235:4500/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo=""",43. Sonic
+http://103.162.136.235:4500/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony BBC Earth HD" tvg-logo=""",44. Sony BBC Earth HD
+http://103.162.136.235:4500/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo=""",45. Sony Ten 1 HD
+http://103.162.136.235:4500/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo=""",46. Sony Ten 2 HD
+http://103.162.136.235:4500/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" tvg-logo=""",47. Sony Ten 3 HD
+http://103.162.136.235:4500/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Bharat HD" tvg-logo=""",48. Star Bharat HD
+http://103.162.136.235:4500/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo=""",49. Star Gold 2
+http://103.162.136.235:4500/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo=""",50. Star Gold HD
+http://103.162.136.235:4500/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" tvg-logo=""",51. Star Gold Select HD
+http://103.162.136.235:4500/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD" tvg-logo=""",52. Star Movies HD
+http://103.162.136.235:4500/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo=""",53. Star Movies Select HD
+http://103.162.136.235:4500/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo=""",54. Star Plus HD
+http://103.162.136.235:4500/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 1 HD" tvg-logo=""",55. Star Select 1 HD
+http://103.162.136.235:4500/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 2 HD" tvg-logo=""",56. Star Select 2 HD
+http://103.162.136.235:4500/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo=""",57. Star Sports 1 HD
+http://103.162.136.235:4500/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" tvg-logo=""",58. Star Sports 1 Hindi HD
+http://103.162.136.235:4500/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo=""",59. Star Sports 2 HD
+http://103.162.136.235:4500/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3" tvg-logo=""",60. Star Sports 3
+http://103.162.136.235:4500/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World HD" tvg-logo=""",61. Star World HD
+http://103.162.136.235:4500/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World Premier HD" tvg-logo=""",62. Star World Premier HD
+http://103.162.136.235:4500/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sundance HD" tvg-logo=""",63. Sundance HD
+http://103.162.136.235:4500/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC HD" tvg-logo=""",64. TLC HD
+http://103.162.136.235:4500/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utv Movies" tvg-logo=""",65. Utv Movies
+http://103.162.136.235:4500/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo=""",66. Zee Cafe HD 
+http://103.162.136.235:4500/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" tvg-logo=""",67. Zee Cinema HD
+http://103.162.136.235:4500/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo=""",68. Zee TV HD
+http://103.162.136.235:4500/play/a00e/index.m3u8
